@@ -1,0 +1,44 @@
+/* Comfortaa */
+@font-face {
+    font-family: 'comfortaa';
+    src: url('../font/comfortaa/Comfortaa-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'comfortaa';
+    src: url('../font/comfortaa/Comfortaa-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+/* montserrat */
+@font-face {
+    font-family: 'montserrat';
+    src: url('../font/montserrat/Montserrat-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'montserrat';
+    src: url('../font/montserrat/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+/* roboto */
+@font-face {
+    font-family: 'roboto';
+    src: url('../font/roboto/Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('../font/roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+/* icons */
+@font-face {
+    font-family: 'icons';
+    src: url('../font/icons/fa-light-300.ttf') format('truetype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'icons';
+    src: url('../font/icons/fa-duotone-900.ttf') format('truetype');
+    font-weight: 900;
+}
