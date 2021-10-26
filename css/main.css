@@ -284,7 +284,6 @@
 
 .films__content {
   width: 100%;
-  border: 1px solid yellow;
   min-height: 40px;
   margin-top: 55px;
   display: flex;
